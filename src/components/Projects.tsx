@@ -15,7 +15,7 @@ export default function Projects() {
       description: 'Live cryptocurrency price tracker with API integration',
       tech: ['React', 'API', 'Chart.js'],
       gradient: 'from-yellow-500 to-orange-600',
-      link: 'cryptotrackweb.vercel.app'
+      link: 'https://cryptotrackweb.vercel.app'
     },
     {
       title: 'Cake Land',
