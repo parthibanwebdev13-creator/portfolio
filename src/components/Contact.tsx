@@ -111,7 +111,7 @@ export default function Contact() {
               </motion.a>
 
               <motion.a
-                href="https://github.com/Parthiban1309"
+                href="https://github.com/parthibanwebdev13-creator"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ x: 5 }}
