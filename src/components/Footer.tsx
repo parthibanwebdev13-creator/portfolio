@@ -16,7 +16,7 @@ export default function Footer() {
               Parthiban.dev
             </h3>
             <p className="text-slate-400 flex items-center gap-2 justify-center md:justify-start">
-              Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> by Parthiban B
+              Made by Parthiban B
             </p>
           </motion.div>
 
@@ -42,7 +42,7 @@ export default function Footer() {
               <Linkedin className="w-5 h-5 text-slate-400 group-hover:text-cyan-400 transition-colors" />
             </a>
             <a
-              href="https://github.com/Parthiban1309"
+              href="https://github.com/parthibanwebdev13-creator"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-slate-800 dark:bg-slate-900 rounded-lg hover:bg-slate-700 dark:hover:bg-slate-800 transition-all duration-300 group border border-slate-700"
